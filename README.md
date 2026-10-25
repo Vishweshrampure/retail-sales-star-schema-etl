@@ -94,7 +94,15 @@ tests/test_etl.py     unit tests
 
 ## Screenshots
 
-Add a screenshot of your validation log output and one query result here.
+The ETL run in CMD:
+<img width="1906" height="1002" alt="image" src="https://github.com/user-attachments/assets/ff50f6ce-4885-43fe-8ef5-f58316d38b33" />
+
+A query result:
+<img width="1285" height="1012" alt="image" src="https://github.com/user-attachments/assets/4b3ae181-19f6-4d16-bd9b-1c83ece91df6" />
+
+Rejected sales:
+<img width="1291" height="1016" alt="image" src="https://github.com/user-attachments/assets/6db26f08-216b-4d5d-a8ba-3b29d7e80ed5" />
+
 
 ## What I learned
 
